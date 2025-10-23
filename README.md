@@ -2,11 +2,11 @@
 Various customization assets for emulation-related hardware and software. Please let me know if you run into any bugs or have suggestions. You can also find me on [Reddit](https://www.reddit.com/user/mugwomp_93/).
 
 # Contents
-1. ***NEW!*** [PS1 Cover and Disc Templates by PatrikV13](https://github.com/mugwomp93/misc_emulation_customization/tree/main#ps1-cover-and-disc-templates-by-patrikv13)
+1. ***NEW!*** [PS1 Cover and Disc Templates](https://github.com/mugwomp93/misc_emulation_customization/tree/main#ps1-cover-and-disc-templates)
 2. [Everdrive N8 Pro Label](https://github.com/mugwomp93/misc_emulation_customization/tree/main#everdrive-n8-pro-label)
 3. [Cyclo DS / EDGE DS Skin](https://github.com/mugwomp93/misc_emulation_customization/tree/main#cyclo-ds--edge-ds-skin)
 
-## [PS1 Cover and Disc Templates by PatrikV13](https://github.com/mugwomp93/misc_emulation_customization/blob/main/ps1_template.ai)<br>
+## [PS1 Cover and Disc Templates](https://github.com/mugwomp93/misc_emulation_customization/blob/main/ps1_template.ai)<br>
 Some excellent [custom PlayStation 1 cover and disc templates](https://github.com/mugwomp93/misc_emulation_customization/blob/main/ps1_template.ai) by [PatrikV13](https://www.reddit.com/user/PatrikV13/) in Adobe Illustrator format for fan projects and personal collections. All credit goes to him - I'm just hosting here for convenience and reflected glory. Feel free to use and modify!<br><br><img width="1171" height="1133" alt="2" src="https://github.com/user-attachments/assets/227ac88d-92a2-4ac8-a21d-281c4bbf6e33" /><br><img width="1104" height="1107" alt="3" src="https://github.com/user-attachments/assets/cc51c2ad-0d2b-4a09-a073-3ba50f39346c" /><br><br>
 
 ## [Everdrive N8 Pro Label](https://github.com/mugwomp93/misc_emulation_customization/blob/main/Everdrive_Replacement_Label.zip)<br>
