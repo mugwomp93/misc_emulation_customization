@@ -2,7 +2,7 @@
 Various customization assets for emulation-related hardware and software. Please let me know if you run into any bugs or have suggestions. You can also find me on [Reddit](https://www.reddit.com/user/mugwomp_93/).
 
 # Contents
-1. ***NEW!*** [PlayStation 1 Cover and Disc Templates](https://github.com/mugwomp93/misc_emulation_customization/tree/main#playstation-1-cover-and-disc-templates)
+1. [PlayStation 1 Cover and Disc Templates](https://github.com/mugwomp93/misc_emulation_customization/tree/main#playstation-1-cover-and-disc-templates)
 2. [Everdrive N8 Pro Label](https://github.com/mugwomp93/misc_emulation_customization/tree/main#everdrive-n8-pro-label)
 3. [Cyclo DS / EDGE DS Skin](https://github.com/mugwomp93/misc_emulation_customization/tree/main#cyclo-ds--edge-ds-skin)
 
